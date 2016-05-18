@@ -1,0 +1,6 @@
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\TrianlgeAngleFinder\TrianlgeAngleFinder\bin\Debug\TrianlgeAngleFinder.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\TrianlgeAngleFinder\TrianlgeAngleFinder\bin\Debug\TrianlgeAngleFinder.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\TrianlgeAngleFinder\TrianlgeAngleFinder\bin\Debug\TrianlgeAngleFinder.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\TrianlgeAngleFinder\TrianlgeAngleFinder\obj\Debug\TrianlgeAngleFinder.csprojResolveAssemblyReference.cache
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\TrianlgeAngleFinder\TrianlgeAngleFinder\obj\Debug\TrianlgeAngleFinder.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\TrianlgeAngleFinder\TrianlgeAngleFinder\obj\Debug\TrianlgeAngleFinder.pdb
